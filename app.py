@@ -16,7 +16,7 @@ groq_api_key = os.environ['GROQ_API_KEY']
 
 def main():
 
-    st.title("Test Groq Chat App")
+    st.title("ทดสอบ ก๊อก ก๊อก")
 
     # Add customization options to the sidebar
     st.sidebar.title('Select an LLM')
